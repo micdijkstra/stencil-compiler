@@ -1,5 +1,7 @@
 # Stencil Compiler
 
+Grunt workflow to compile files for static site development.
+
 ## The short version
 + Download and `cd` into the repo.
 + Run compiler tasks with `$ grunt`.
