@@ -1,0 +1,13 @@
+# Ignore annoying files
+*.DS_Store
+*.swo
+*.swp
+
+# Ignore build folder
+/.build
+
+# Ignore NPM files
+node_modules
+
+# Ignore sass cache
+.sass-cache/
